@@ -1,0 +1,14 @@
+PODS:
+  - AWRefresh (0.1.0)
+
+DEPENDENCIES:
+  - AWRefresh (from `../`)
+
+EXTERNAL SOURCES:
+  AWRefresh:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AWRefresh: ebb92e35ef05c411d1d56995b483d6f79b05cc3b
+
+COCOAPODS: 0.38.2
