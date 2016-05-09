@@ -1,0 +1,8 @@
+use_frameworks!
+
+
+target 'AWRefresh_Tests', :exclusive => true do
+  pod 'AWRefresh', :path => '../'
+
+  
+end
